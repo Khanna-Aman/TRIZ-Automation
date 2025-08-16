@@ -1,0 +1,159 @@
+version: "3.9"
+
+name: iia-stack
+
+services:
+  orchestrator:
+    build: ./services/orchestrator
+    container_name: iia-orchestrator
+    environment:
+      - LOG_LEVEL=info
+      - REDIS_URL=redis://redis:6379/0
+      - POSTGRES_URL=postgresql://iia:iia@postgres:5432/iia
+      - TRIZ_URL=http://triz:8000
+      - LATERAL_URL=http://lateral:8000
+      - RAG_URL=http://rag:8000
+      - EVAL_URL=http://eval:8000
+    ports:
+      - "8000:8000"
+    depends_on:
+      - triz
+      - lateral
+      - rag
+      - eval
+      - postgres
+      - redis
+    networks:
+      - iia-net
+
+  triz:
+    build: ./services/triz
+    container_name: iia-triz
+    networks:
+      - iia-net
+
+  lateral:
+    build: ./services/lateral
+    container_name: iia-lateral
+    networks:
+      - iia-net
+
+  rag:
+    build: ./services/rag
+    container_name: iia-rag
+    environment:
+      - QDRANT_URL=http://qdrant:6333
+      - GRAPH_URL=bolt://neo4j:7687
+    networks:
+      - iia-net
+
+  eval:
+    build: ./services/eval
+    container_name: iia-eval
+    networks:
+      - iia-net
+
+  worker:
+    build: ./services/worker
+    container_name: iia-worker
+    environment:
+      - REDIS_URL=redis://redis:6379/0
+      - RABBITMQ_URL=amqp://guest:guest@rabbitmq:5672//
+    depends_on:
+      - rabbitmq
+      - redis
+    networks:
+      - iia-net
+
+  postgres:
+    image: postgres:15
+    container_name: iia-postgres
+    environment:
+      - POSTGRES_USER=iia
+      - POSTGRES_PASSWORD=iia
+      - POSTGRES_DB=iia
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    networks:
+      - iia-net
+
+  redis:
+    image: redis:7
+    container_name: iia-redis
+    ports:
+      - "6379:6379"
+    networks:
+      - iia-net
+
+  rabbitmq:
+    image: rabbitmq:3-management
+    container_name: iia-rabbitmq
+    environment:
+      - RABBITMQ_DEFAULT_USER=guest
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    networks:
+      - iia-net
+
+  qdrant:
+    image: qdrant/qdrant:latest
+    container_name: iia-qdrant
+    volumes:
+      - qdrant_storage:/qdrant/storage
+    ports:
+      - "6333:6333"
+    networks:
+      - iia-net
+
+  neo4j:
+    image: neo4j:5-community
+    container_name: iia-neo4j
+    environment:
+      - NEO4J_AUTH=neo4j/password
+    volumes:
+      - neo4j_data:/data
+    ports:
+      - "7474:7474" # HTTP
+      - "7687:7687" # Bolt
+    networks:
+      - iia-net
+
+  minio:
+    image: minio/minio:latest
+    container_name: iia-minio
+    command: server /data --console-address ":9001"
+    environment:
+      - MINIO_ROOT_USER=admin
+      - MINIO_ROOT_PASSWORD=adminadmin
+    volumes:
+      - minio_data:/data
+    ports:
+      - "9000:9000"
+      - "9001:9001"
+    networks:
+      - iia-net
+
+  n8n:
+    image: n8nio/n8n:latest
+    container_name: iia-n8n
+    ports:
+      - "5678:5678"
+    volumes:
+      - n8n_data:/home/node/.n8n
+    networks:
+      - iia-net
+
+networks:
+  iia-net:
+    driver: bridge
+
+volumes:
+  pgdata:
+  qdrant_storage:
+  neo4j_data:
+  minio_data:
+  n8n_data:
+

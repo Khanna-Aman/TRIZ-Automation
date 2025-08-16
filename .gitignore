@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.env
+
+# Editor/OS
+.vscode/
+.idea/
+.DS_Store
+
+# Docker
+*.log
+*.pid
+
+# Test/coverage
+.pytest_cache/
+htmlcov/
+.coverage*
+
+# Node/Electron (future UI)
+node_modules/
+build/
+dist/
+

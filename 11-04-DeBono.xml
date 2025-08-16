@@ -1,0 +1,324 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
+  <diagram id="FzOTFgIRB7lURu0-aonY" name="Page-1">
+    <mxGraphModel dx="1550" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="&lt;b&gt;Edward de Bono&#39;s Thinking Tools&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="520" y="10" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C1" value="Structured Idea Evaluation &amp;amp; Analysis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="120" y="120" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="C2" value="Creative Idea Generation &amp;amp; Exploration (Lateral Thinking Focus)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="500" y="200" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3" value="Perspective Shifting &amp;amp; Direction Setting" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="900" y="200" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C4" value="Action &amp;amp; Implementation Planning" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1262" y="200" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E_2_C1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" source="2" target="C1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_2_C2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" source="2" target="C2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_2_C3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" source="2" target="C3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_2_C4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" source="2" target="C4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T1_1" value="PMI (Plus, Minus, Interesting): Evaluating the positive, negative, and interesting aspects of an idea.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="30" y="290" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T1_2" value="CAF (Consider All Factors): Exploring all factors related to a decision, plan, or situation." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="220" y="300" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T1_3" value="C&amp;amp;S (Consequence and Sequel): Looking ahead to the short, medium, and long-term consequences.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="40" y="430" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T1_4" value="RAD (Recognise, Analyse, Divide): Breaking a larger concept into smaller, manageable parts. " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="220" y="410" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T1_5" value="KVI (Key Values Involved): Ensuring that thinking aligns with key values.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="130" y="565" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E_C1_T1_1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" source="C1" target="T1_1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="240" />
+              <mxPoint x="100" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_C1_T1_2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" source="C1" target="T1_2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="240" />
+              <mxPoint x="280" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_C1_T1_3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" source="C1" target="T1_3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_C1_T1_4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" source="C1" target="T1_4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_C1_T1_5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" parent="1" source="C1" target="T1_5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="560" />
+              <mxPoint x="200" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T2_1" value="Lateral Thinking: Generating ideas by thinking non-obviously.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="376" y="300" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T2_2" value="Random Entry/Stimulus: Using an unrelated word or stimulus to spark new lines of thinking.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="537" y="300" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T2_3" value="Provocation (Po): Making deliberately provocative statements to challenge assumptions. " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="708" y="300" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T2_4" value="Challenge: Questioning existing concepts and ideas to find new ways.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="376" y="400" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T2_5" value="Concept Fan/Extraction: Identifying underlying concepts and finding new ways to achieve them. [" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="537" y="400" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T2_6" value="Movement: Techniques to move from one idea to another, often from a provocation. " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="708" y="400" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T2_7" value="Escape: Deliberately escaping from established patterns of thought.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="376" y="500" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T2_8" value="Stepping Stone: Using ideas as stepping stones to new ideas.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="537" y="500" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T2_9" value="Fractionation: Breaking down a problem or concept into smaller parts. " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="708" y="500" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T2_10" value="Disproving: Taking an obvious idea and trying to disprove it. " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="376" y="600" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="T2_11" value="Focus Tools: Broadening where to search for new ideas.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="537" y="600" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="T2_12" value="Harvest Tools: Ensuring more value is received from idea generating output." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="708" y="600" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="T2_13" value="Treatment Tools: Considering real-world constraints for creative ideas.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="537" y="690" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E_C2_T2_1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" source="C2" target="T2_1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_C2_T2_2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" source="C2" target="T2_2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="290" />
+              <mxPoint x="610" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_C2_T2_3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" source="C2" target="T2_3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_C2_T2_4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" source="C2" target="T2_4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="280" />
+              <mxPoint x="530" y="280" />
+              <mxPoint x="530" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_C2_T2_5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" target="T2_5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="260" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="610" y="280" />
+              <mxPoint x="690" y="280" />
+              <mxPoint x="690" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_C2_T2_6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" target="T2_6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="260" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="610" y="280" />
+              <mxPoint x="690" y="280" />
+              <mxPoint x="690" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_C2_T2_7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" source="C2" target="T2_7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="280" />
+              <mxPoint x="530" y="280" />
+              <mxPoint x="530" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_C2_T2_8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" source="C2" target="T2_8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_C2_T2_9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" target="T2_9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="260" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="610" y="280" />
+              <mxPoint x="690" y="280" />
+              <mxPoint x="690" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_C2_T2_10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="C2" target="T2_10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="280" />
+              <mxPoint x="530" y="280" />
+              <mxPoint x="530" y="635" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_C2_T2_11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" target="T2_11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="260" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="610" y="280" />
+              <mxPoint x="690" y="280" />
+              <mxPoint x="690" y="635" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_C2_T2_12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" target="T2_12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="260" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="610" y="280" />
+              <mxPoint x="690" y="280" />
+              <mxPoint x="690" y="635" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_C2_T2_13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" target="T2_13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="260" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="610" y="263" />
+              <mxPoint x="610" y="280" />
+              <mxPoint x="690" y="280" />
+              <mxPoint x="690" y="725" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T3_1" value="Six Thinking Hats: Framework for exploring issues from multiple perspectives (facts, emotions, critical judgment, positive, creative, process control)." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="860" y="300" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="T3_2" value="AGO (Aims, Goals, Objectives): Clarifying the aims, goals, and objectives of thinking or action.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1033" y="300" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="T3_3" value="OPV (Other People&#39;s Views): Considering the viewpoints of others involved or affected.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="860" y="420" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="T3_4" value="APC (Alternatives, Possibilities, Choices): Deliberately searching for alternatives beyond the obvious.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1033" y="420" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="T3_5" value="Awareness (Lateral Thinking): Understanding how the mind processes information and resisting established patterns.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="860" y="530" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="T3_6" value="Alteration (Lateral Thinking): Deliberately altering available options or reversing relationships.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1033" y="530" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E_C3_T3_1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;exitX=0.67;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="C3" target="T3_1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030.034482758621" y="260.0000000000001" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1021" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_C3_T3_2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" target="T3_2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1020" y="260" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1020" y="260" />
+              <mxPoint x="1020" y="280" />
+              <mxPoint x="1096" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_C3_T3_3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;exitX=0.672;exitY=0.998;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="C3" target="T3_3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030.034482758621" y="260.0000000000001" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1021" y="261" />
+              <mxPoint x="1020" y="261" />
+              <mxPoint x="1020" y="465" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_C3_T3_4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" target="T3_4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1020" y="260" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1020" y="260" />
+              <mxPoint x="1020" y="465" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_C3_T3_5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" target="T3_5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1020" y="260" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1020" y="261" />
+              <mxPoint x="1020" y="575" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_C3_T3_6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;exitX=0.668;exitY=1.02;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="C3" target="T3_6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1000" y="260" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1020" y="270" />
+              <mxPoint x="1020" y="270" />
+              <mxPoint x="1020" y="575" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4_1" value="FIP (First Important Priorities): Identifying the most important ideas, factors, objectives, or consequences.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1192" y="300" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="T4_2" value="DOCA (Design/Decision, Outcome, Channels, Action): A tool for planning and action. " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1342" y="300" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="E_C4_T4_1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" source="C4" target="T4_1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_C4_T4_2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" source="C4" target="T4_2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

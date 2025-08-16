@@ -1,0 +1,442 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram name="TRIZ Framework v5.0 - Expanded" id="triz-framework-expanded">
+    <mxGraphModel dx="1899" dy="1109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="3500" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="TRIZ Framework v5.0 - Comprehensive Innovation Management System with Expanded Building Blocks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1800" y="20" width="1400" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="process-section" value="Core Innovation Process Flow" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1;fontColor=#2C3E50;" parent="1" vertex="1">
+          <mxGeometry x="2200" y="100" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P0" value="P0: Strategic Alignment &amp; Project Selection" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#2C3E50;fontColor=#FFFFFF;strokeColor=#2C3E50;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="200" y="200" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="P1" value="P1: Problem Analysis &amp; Formulation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F4D03F;strokeColor=#F4D03F;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="600" y="200" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="P2" value="P2: Contradiction Identification &amp; Resolution" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E67E22;strokeColor=#E67E22;fontColor=#FFFFFF;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1000" y="200" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="P3" value="P3: Solution Generation &amp; Conceptualisation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#58D68D;strokeColor=#58D68D;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1400" y="200" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="P4" value="P4: Concept Evaluation &amp; Refinement" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3498DB;strokeColor=#3498DB;fontColor=#FFFFFF;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1800" y="200" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="P5" value="P5: Implementation &amp; Validation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#AF7AC5;strokeColor=#AF7AC5;fontColor=#FFFFFF;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="2200" y="200" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="P6" value="P6: Knowledge Capture &amp; Dissemination" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#95A5A6;strokeColor=#95A5A6;fontColor=#FFFFFF;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="2600" y="200" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="P7" value="P7: Continuous Improvement &amp; Innovation Culture" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E74C3C;strokeColor=#E74C3C;fontColor=#FFFFFF;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="3000" y="200" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="C0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#2C3E50;" parent="1" source="P0" target="P1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#333333;" parent="1" source="P1" target="P2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#333333;" parent="1" source="P2" target="P3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#333333;" parent="1" source="P3" target="P4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#333333;" parent="1" source="P4" target="P5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#333333;" parent="1" source="P5" target="P6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#333333;" parent="1" source="P6" target="P7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bb-section" value="TRIZ Building Blocks - Detailed View" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1;fontColor=#856404;" parent="1" vertex="1">
+          <mxGeometry x="2200" y="400" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BB1-container" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF3CD;strokeColor=#856404;strokeWidth=2;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="500" width="600" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="BB1-title" value="🔍 BB1: Problem Definition &amp; Analysis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#856404;fontColor=#FFFFFF;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="520" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BB1-S1.1" value="S1.1: Define Specific Problem&#xa;• 5 Whys&#xa;• Ishikawa Diagram&#xa;• Is-Is Not Analysis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=11;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="120" y="580" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BB1-S1.2" value="S1.2: Ideal Final Result (IFR)&#xa;• IFR Canvas&#xa;• Ideality Equation&#xa;• Zero cost, Zero harm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=11;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="310" y="580" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BB1-S1.3" value="S1.3: Function Analysis&#xa;• Useful functions&#xa;• Harmful functions&#xa;• Cause-Effect chains" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=11;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="500" y="580" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BB1-S1.4" value="S1.4: Resource Analysis&#xa;• Substance resources&#xa;• Field resources&#xa;• Space/Time/Info resources" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=11;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="120" y="680" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BB1-S1.5" value="S1.5: System Boundaries&#xa;• System level&#xa;• Super-system&#xa;• Sub-system" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=11;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="310" y="680" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BB1-S1.6" value="S1.6: Early Trimming&#xa;• Low-value functions&#xa;• Harmful functions&#xa;• Cost reduction" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=11;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="500" y="680" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BB1-tools" value="Tools: T5 (9-Windows), T7 (Function Analysis)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F5E9;strokeColor=#4CAF50;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="120" y="780" width="550" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BB1-example" value="Example: Jet engine blade failure analysis using function modeling" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=2;" parent="1" vertex="1">
+          <mxGeometry x="120" y="820" width="550" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BB2-container" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF3CD;strokeColor=#856404;strokeWidth=2;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="750" y="500" width="600" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="BB2-title" value="⚔️ BB2: Contradiction Matrix &amp; 40 Inventive Principles" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#856404;fontColor=#FFFFFF;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="770" y="520" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BB2-S2.1" value="S2.1: Technical Contradictions&#xa;• Improving parameter&#xa;• Worsening parameter&#xa;• 39 Engineering parameters" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=11;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="770" y="580" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BB2-S2.2" value="S2.2: Matrix Lookup&#xa;• Classical Matrix&#xa;• Matrix 2003&#xa;• Matrix 2010" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=11;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="960" y="580" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BB2-S2.3" value="S2.3: Physical Contradictions&#xa;• Separation in Space&#xa;• Separation in Time&#xa;• Separation on Condition&#xa;• Parts/Whole separation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=11;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="1150" y="580" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BB2-S2.4" value="S2.4: Interface Contradictions&#xa;• System boundaries&#xa;• Interface conflicts&#xa;• Interface Analysis Matrix" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=11;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="770" y="680" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BB2-principles" value="40 Inventive Principles:&#xa;1. Segmentation  2. Taking out  3. Local quality  4. Asymmetry&#xa;5. Merging  6. Universality  7. Nesting  8. Anti-weight&#xa;... and 32 more principles" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=11;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="960" y="680" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BB2-tools" value="Tools: T1 (Contradiction Matrix Web App)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F5E9;strokeColor=#4CAF50;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="770" y="780" width="550" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BB2-example" value="Example: Boeing wing - Stronger (↑) leads to More weight (↓) → Use principles 1, 8, 15, 35" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=2;" parent="1" vertex="1">
+          <mxGeometry x="770" y="820" width="550" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BB3-container" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF3CD;strokeColor=#856404;strokeWidth=2;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="1400" y="500" width="600" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="BB3-title" value="🧬 BB3: Substance-Field (Su-Field) &amp; 76 Standard Solutions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#856404;fontColor=#FFFFFF;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="1420" y="520" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BB3-S3.1" value="S3.1: Model Su-Field&#xa;• S1 - First substance&#xa;• S2 - Second substance&#xa;• F - Field interaction" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=11;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="1420" y="580" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BB3-S3.2" value="S3.2: Standard Solutions&#xa;Class 1: Build/destroy&#xa;Class 2: Develop&#xa;Class 3: Transitions&#xa;Class 4: Detection&#xa;Class 5: Application" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=11;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="1610" y="580" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BB3-S3.3" value="S3.3: Chain Su-Fields&#xa;• Sequential processes&#xa;• Parallel processes&#xa;• Complex interactions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=11;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="1800" y="580" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BB3-models" value="Model Types:&#xa;• Incomplete Su-Field (missing element)&#xa;• Harmful Su-Field (unwanted effect)&#xa;• Insufficient Su-Field (weak interaction)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=11;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="1420" y="680" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BB3-fields" value="Common Fields:&#xa;• Mechanical  • Thermal&#xa;• Chemical    • Electric&#xa;• Magnetic    • Acoustic" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=11;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="1710" y="680" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BB3-tools" value="Tools: T2 (Su-Field Modeller)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F5E9;strokeColor=#4CAF50;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1420" y="780" width="550" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BB3-example" value="Example: Ultrasonic cleaning - S1(dirt) + S2(surface) + F(acoustic field) → Clean surface" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=2;" parent="1" vertex="1">
+          <mxGeometry x="1420" y="820" width="550" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BB4-container" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF3CD;strokeColor=#856404;strokeWidth=2;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="2050" y="500" width="700" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="BB4-title" value="🗂️ BB4: ARIZ (Algorithm for Inventive Problem Solving)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#856404;fontColor=#FFFFFF;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="2070" y="520" width="660" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BB4-parts" value="9 Parts of ARIZ:" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="2070" y="570" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BB4-P1" value="Part 1: Problem Analysis&#xa;• Mini-problem&#xa;• Conflict analysis&#xa;• IFR-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=10;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="2070" y="600" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BB4-P2" value="Part 2: Problem Model&#xa;• Operating zone&#xa;• Operating time&#xa;• Su-Field resources" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=10;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="2230" y="600" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BB4-P3" value="Part 3: IFR &amp; PC&#xa;• IFR-2 formulation&#xa;• Physical contradiction&#xa;• Macro/Micro PC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=10;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="2390" y="600" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BB4-P4" value="Part 4: Resources&#xa;• Substance&#xa;• Field&#xa;• Space/Time" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=10;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="2070" y="670" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BB4-P5" value="Part 5: Information&#xa;• Standards&#xa;• Analogies&#xa;• Effects DB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=10;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="2230" y="670" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BB4-P6" value="Part 6: Solution&#xa;• Concept synthesis&#xa;• Secondary problems&#xa;• Evaluation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=10;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="2390" y="670" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BB4-P789" value="Parts 7-9:&#xa;• Solution Analysis&#xa;• Application Planning&#xa;• Process Review" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=10;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="2550" y="600" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="BB4-tools" value="Tools: T8 (ARIZ Assistant)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F5E9;strokeColor=#4CAF50;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="2070" y="750" width="650" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BB4-note" value="Note: ARIZ is used for complex problems where other TRIZ tools haven&#39;t provided breakthrough solutions" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=2;" parent="1" vertex="1">
+          <mxGeometry x="2070" y="790" width="650" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BB5-container" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF3CD;strokeColor=#856404;strokeWidth=2;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="2800" y="500" width="700" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="BB5-title" value="📈 BB5: Trends of Engineering System Evolution" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#856404;fontColor=#FFFFFF;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="2820" y="520" width="660" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BB5-S5.1" value="S5.1: S-Curve Position&#xa;• Birth (emerging)&#xa;• Growth (rapid improvement)&#xa;• Maturity (optimization)&#xa;• Decline (replacement)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=11;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="2820" y="580" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BB5-laws" value="8 Laws of System Evolution:" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="3040" y="570" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BB5-law1-4" value="1. System Completeness&#xa;2. Energy Conductivity&#xa;3. Harmonization&#xa;4. Ideality" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=10;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="3040" y="600" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BB5-law5-8" value="5. Uneven Development&#xa;6. Transition to Super-system&#xa;7. Transition to Micro-level&#xa;8. Increasing Use of Fields" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=10;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="3260" y="600" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BB5-S5.3" value="S5.3: Forecast Next Stage&#xa;• Evolution Potential Radar&#xa;• Technology Roadmapping&#xa;• Competitive analysis&#xa;• Patent landscape" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=11;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="2820" y="680" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BB5-evolution" value="Evolution Patterns:&#xa;• Mono → Bi → Poly systems&#xa;• Rigid → Flexible → Fluid → Field&#xa;• Manual → Semi-auto → Automatic&#xa;• 2D → 3D → 4D (time)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=11;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="3040" y="680" width="420" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BB5-example" value="Example: Smartphones at maturity → Next: AR glasses, brain interfaces (transition to super-system)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=2;" parent="1" vertex="1">
+          <mxGeometry x="2820" y="820" width="640" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BB6-container" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF3CD;strokeColor=#856404;strokeWidth=2;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="3550" y="500" width="680" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="BB6-title" value="🔬 BB6: Scientific Effects &amp; Knowledge-Base Search" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#856404;fontColor=#FFFFFF;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="3570" y="520" width="630" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BB6-categories" value="Effect Categories:" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="3570" y="570" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BB6-cat1" value="• Mechanical Effects&#xa;  - Leverage&#xa;  - Resonance&#xa;  - Gyroscopic" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=10;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="3570" y="600" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BB6-cat2" value="• Thermal Effects&#xa;  - Phase change&#xa;  - Thermal expansion&#xa;  - Peltier effect" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=10;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="3700" y="600" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BB6-cat3" value="• Chemical Effects&#xa;  - Catalysis&#xa;  - Oxidation&#xa;  - Polymerization" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=10;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="3830" y="600" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BB6-cat4" value="• Electronic Effects&#xa;  - Piezoelectric&#xa;  - Photoelectric&#xa;  - Semiconductor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=10;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="3960" y="600" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BB6-cat5" value="• Magnetic/Optical/Bio&#xa;  - Magnetostriction&#xa;  - Laser effects&#xa;  - Biomimetics" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=10;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="4090" y="600" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BB6-process" value="Search Process:&#xa;1. Define required function&#xa;2. Search effects database (7,000+ effects)&#xa;3. Evaluate: Efficiency, Control, Cost, Reliability&#xa;4. Patent/literature search for applications" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=11;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="3570" y="690" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BB6-tools" value="Tools: T4 (Scientific Effects DB), T3 (PatentLens API)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F5E9;strokeColor=#4CAF50;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="3890" y="690" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BB6-examples" value="Examples: Shape-memory alloy for valves, Piezoelectric for precision positioning" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=2;" parent="1" vertex="1">
+          <mxGeometry x="3570" y="820" width="550" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BB7-container" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF3CD;strokeColor=#856404;strokeWidth=2;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="950" width="600" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="BB7-title" value="🪟 BB7: 9-Windows System Analysis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#856404;fontColor=#FFFFFF;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="970" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BB7-matrix" value="9-Windows Matrix:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="1020" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BB7-past-super" value="Past&#xa;Super-system" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="200" y="1050" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BB7-present-super" value="Present&#xa;Super-system" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFACD;strokeColor=#856404;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="340" y="1050" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BB7-future-super" value="Future&#xa;Super-system" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="480" y="1050" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BB7-past-system" value="Past&#xa;System" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="200" y="1110" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BB7-present-system" value="PRESENT&#xa;SYSTEM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD700;strokeColor=#856404;fontSize=11;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="1110" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BB7-future-system" value="Future&#xa;System" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="480" y="1110" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BB7-past-sub" value="Past&#xa;Sub-system" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="200" y="1170" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BB7-present-sub" value="Present&#xa;Sub-system" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFACD;strokeColor=#856404;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="340" y="1170" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BB7-future-sub" value="Future&#xa;Sub-system" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="480" y="1170" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BB7-analysis" value="Analysis Questions:&#xa;• What resources exist in each window?&#xa;• What constraints apply?&#xa;• What opportunities emerge?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F5E9;strokeColor=#4CAF50;fontSize=11;align=left;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1230" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BB7-tools" value="Tool: T5 (9-Windows Digital Canvas)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F5E9;strokeColor=#4CAF50;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="400" y="1240" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BB8-container" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF3CD;strokeColor=#856404;strokeWidth=2;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="750" y="950" width="600" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="BB8-title" value="✂️ BB8: Function Trimming" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#856404;fontColor=#FFFFFF;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="770" y="970" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BB8-S8.1" value="S8.1: Function Ranking&#xa;• Value contribution (High/Med/Low)&#xa;• Cost (High/Med/Low)&#xa;• Harm caused (High/Med/Low)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=11;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="770" y="1030" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BB8-S8.2" value="S8.2: Trimming Rules&#xa;Rule A: Object self-performs&#xa;Rule B: Another component performs&#xa;Rule C: Function eliminated with object" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=11;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="1060" y="1030" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BB8-S8.3" value="S8.3: Apply Trimming&#xa;• Remove low-value components&#xa;• Redistribute useful functions&#xa;• Eliminate harmful functions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=11;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="770" y="1120" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BB8-S8.4" value="S8.4: Verify System Integrity&#xa;✓ All useful functions preserved&#xa;✓ No new harmful functions&#xa;✓ Cost reduction achieved" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=11;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="1060" y="1120" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BB8-tools" value="Tool: T7 (Function Analysis &amp; Trimming Tool)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F5E9;strokeColor=#4CAF50;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="770" y="1210" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BB8-benefit" value="Benefits: Reduced complexity, Lower cost, Higher reliability, Easier maintenance" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=2;" parent="1" vertex="1">
+          <mxGeometry x="770" y="1250" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BB9-container" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF3CD;strokeColor=#856404;strokeWidth=2;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="1400" y="950" width="600" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="BB9-title" value="🚀 BB9: Implementation Roadmap" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#856404;fontColor=#FFFFFF;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="1420" y="970" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BB9-S9.1" value="S9.1: Prototype Development&#xa;• Proof of concept&#xa;• Alpha prototype&#xa;• Beta prototype&#xa;• Production prototype" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=11;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="1420" y="1030" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BB9-S9.2" value="S9.2: Testing &amp; Validation&#xa;• Functional tests&#xa;• Performance tests&#xa;• Reliability (MTBF)&#xa;• Safety &amp; User acceptance" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=11;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="1620" y="1030" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BB9-S9.3" value="S9.3: Iterative Refinement&#xa;• PDCA cycle&#xa;• Continuous improvement&#xa;• Feedback integration" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=11;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="1820" y="1030" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BB9-S9.4" value="S9.4: Scale-up Planning&#xa;• Manufacturing process design&#xa;• Supply chain setup&#xa;• Quality control systems&#xa;• Cost optimization" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=11;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="1420" y="1130" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BB9-S9.5" value="S9.5: IP Protection&#xa;• Patent filing&#xa;• Trade secrets&#xa;• Freedom-to-operate" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=11;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="1710" y="1130" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BB9-tools" value="Tools: Rapid Prototyping, 3D Printing, Simulation Software, Project Management Tools" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F5E9;strokeColor=#4CAF50;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1420" y="1220" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BB9-metrics" value="Key Metrics: Cycle time, Defect rate, Cost vs. budget, Customer satisfaction" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=2;" parent="1" vertex="1">
+          <mxGeometry x="1420" y="1260" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BB10-container" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF3CD;strokeColor=#856404;strokeWidth=2;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="2050" y="950" width="600" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="BB10-title" value="📚 BB10: Post-Project Review &amp; Knowledge Capture" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#856404;fontColor=#FFFFFF;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="2070" y="970" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BB10-steps" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;S10.1: Retrospective&lt;br&gt;• Start-Stop-Continue&lt;br&gt;• Team feedback&lt;br&gt;• Stakeholder input&lt;br&gt;&lt;br&gt;S10.2: Document Lessons&lt;br&gt;• Technical insights&lt;br&gt;• Process improvements&lt;br&gt;• Tool effectiveness&lt;br&gt;&lt;br&gt;S10.3: Update Knowledge Base&lt;br&gt;• Case studies&lt;br&gt;• Solution patterns&lt;br&gt;• Best practices" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=11;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="2070" y="1030" width="260" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="BB10-formats" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;S10.4: Training Materials&lt;br&gt;• Video tutorials&lt;br&gt;• Workshop materials&lt;br&gt;• Quick reference guides&lt;br&gt;&lt;br&gt;S10.5: Share &amp;amp; Disseminate&lt;br&gt;• Innovation forums&lt;br&gt;• Lunch &amp;amp; learns&lt;br&gt;• Newsletter articles&lt;br&gt;• Annual conference" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=11;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="2350" y="1030" width="260" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="BB10-tools" value="Tools: Confluence, SharePoint, Video platforms, Collaboration tools" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F5E9;strokeColor=#4CAF50;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="2070" y="1250" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BB11-container" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF3CD;strokeColor=#856404;strokeWidth=2;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="2700" y="950" width="600" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="BB11-title" value="🌱 BB11: Innovation Culture &amp; Change Management" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#856404;fontColor=#FFFFFF;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="2720" y="970" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BB11-activities" value="Key Activities:" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="2720" y="1020" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BB11-S11.1" value="S11.1: Culture Assessment&#xa;• Innovation Culture Survey&#xa;• Focus Groups&#xa;• Behavioral Analytics" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=11;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="2720" y="1050" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BB11-S11.2" value="S11.2: Change Strategy&#xa;• Vision communication&#xa;• Leadership alignment&#xa;• Incentive design&#xa;• Resistance management" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=11;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="3010" y="1030" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BB11-S11.3" value="S11.3: Community of Practice&#xa;• Regular meetups&#xa;• Mentoring program&#xa;• Innovation challenges&#xa;• Recognition system" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=11;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="2720" y="1123" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BB11-S11.4" value="S11.4: Continuous Learning&#xa;• TRIZ certification pathway&#xa;• Cross-industry benchmarking&#xa;• Conference participation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=11;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="3010" y="1130" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BB11-metrics" value="Success Metrics: Innovation culture index, Employee engagement, Ideas generated, Projects completed" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F5E9;strokeColor=#4CAF50;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="2720" y="1210" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BB11-phases" value="Change Phases: Awareness (3mo) → Adoption (6mo) → Acceleration (12mo) → Institutionalization (ongoing)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=2;" parent="1" vertex="1">
+          <mxGeometry x="2720" y="1250" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BB12-container" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF3CD;strokeColor=#856404;strokeWidth=2;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="3350" y="950" width="600" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="BB12-title" value="⚠️ BB12: Anticipatory Failure Determination (AFD)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#856404;fontColor=#FFFFFF;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="3370" y="970" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BB12-desc" value="Inversion technique: &#39;How can the solution fail?&#39; → Preventive actions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=2;" parent="1" vertex="1">
+          <mxGeometry x="3370" y="1020" width="560" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BB12-S12.1" value="S12.1: Define Ideal Failure&#xa;• Most catastrophic scenario&#xa;• Plausible failure modes&#xa;• Impact assessment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=11;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="3370" y="1050" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BB12-S12.2" value="S12.2: Failure Mechanisms&#xa;• Cause-Effect Chain Analysis&#xa;• Why-Not Diagram&#xa;• Failure tree analysis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=11;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="3660" y="1050" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BB12-S12.3" value="S12.3: Preventive Actions&#xa;• Eliminate root cause&#xa;• Compensate with control&#xa;• Detect before impact" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=11;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="3370" y="1130" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BB12-S12.4" value="S12.4: Validation Planning&#xa;• Stress test weak points&#xa;• Failure mode testing&#xa;• Robustness verification" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#856404;fontSize=11;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="3660" y="1130" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BB12-benefit" value="Benefits: Proactive risk management, Higher reliability, Reduced warranty costs, Customer confidence" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F5E9;strokeColor=#4CAF50;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="3370" y="1210" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BB12-integration" value="Integration: AFD results feed into P5 (Implementation) validation plans and risk mitigation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=2;" parent="1" vertex="1">
+          <mxGeometry x="3370" y="1250" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="support-section" value="Supporting Framework Elements" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1;fontColor=#4CAF50;" parent="1" vertex="1">
+          <mxGeometry x="2200" y="1350" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tools-summary" value="Digital Tools Ecosystem" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F5E9;strokeColor=#4CAF50;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="1420" width="1000" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tools-list" value="T1: Contradiction Matrix | T2: Su-Field Modeller | T3: PatentLens | T4: Effects DB | T5: 9-Windows | T6: Metrics Dashboard | T7: Function Analysis | T8: ARIZ Assistant" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#4CAF50;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="100" y="1470" width="1000" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="metrics-summary" value="Innovation Metrics Framework" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E3F2FD;strokeColor=#1976D2;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="1150" y="1420" width="800" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="metrics-categories" value="Leading: Contradictions identified, Ideality improvement | Lagging: Success rate, Cost savings, Patents | Organizational: Adoption rate, Culture index" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1976D2;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1150" y="1470" width="800" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="risk-summary" value="Risk Management Categories" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCDD2;strokeColor=#D32F2F;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="2000" y="1420" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="risk-types" value="Technical | Market | Organizational | Financial | Compliance → Risk Matrix: Probability × Impact" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D32F2F;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="2000" y="1470" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="integration-summary" value="Methodology Integration" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F0F4C3;strokeColor=#827717;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="2650" y="1420" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="integration-methods" value="Design Thinking | Lean Startup | Agile/Scrum | Six Sigma | Stage-Gate → Synergistic Innovation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#827717;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="2650" y="1470" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="competency-summary" value="TRIZ Competency Development Path" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE0B2;strokeColor=#E65100;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="3300" y="1420" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="competency-path" value="Bronze (40h) → Silver (80h) → Gold (160h) → Master (320h) | Certification + Projects + Mentoring" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E65100;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="3300" y="1470" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="footer" value="TRIZ Framework v5.0 | Author: Vijay Khanna | Comprehensive Enterprise Innovation System | 8 Core Processes | 12 Building Blocks | Complete Digital Integration" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=2;" parent="1" vertex="1">
+          <mxGeometry x="1500" y="1550" width="1000" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

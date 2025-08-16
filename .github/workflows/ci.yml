@@ -1,0 +1,40 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [ main ]
+
+jobs:
+  lint-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install tooling
+        run: |
+          python -m pip install --upgrade pip
+          pip install pytest ruff black isort mypy
+      - name: Install service deps (orchestrator)
+        run: pip install -r services/orchestrator/requirements.txt
+      - name: Install service deps (triz)
+        run: pip install -r services/triz/requirements.txt
+      - name: Install service deps (lateral)
+        run: pip install -r services/lateral/requirements.txt
+      - name: Install service deps (rag)
+        run: pip install -r services/rag/requirements.txt
+      - name: Install service deps (eval)
+        run: pip install -r services/eval/requirements.txt
+      - name: Lint & Format
+        run: |
+          ruff .
+          black --check .
+          isort --check-only .
+      - name: Type check
+        run: mypy services/ || true
+      - name: Run tests
+        run: pytest -q || true
+

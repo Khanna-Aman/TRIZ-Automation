@@ -1,0 +1,5 @@
+[
+  {"id": 1, "name": "Weight of moving object", "description": "Reduce/increase mass"},
+  {"id": 2, "name": "Weight of nonmoving object", "description": "Mass of stationary part"}
+]
+
